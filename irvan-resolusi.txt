@@ -1,5 +1,7 @@
 Irvan Resolusi
 - Belajar Progamming
+* PHP
+* Javascript
 - Belajar Jaringan
 - Belajar Desain
 - Membuat Aplikasi Inventaris
