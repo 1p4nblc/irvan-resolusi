@@ -3,3 +3,4 @@ Irvan Resolusi
 - Belajar Jaringan
 - Belajar Desain
 - Membuat Aplikasi Inventaris
+- Membuat Aplikasi Akuntasi
