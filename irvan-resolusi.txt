@@ -2,3 +2,4 @@ Irvan Resolusi
 - Belajar Progamming
 - Belajar Jaringan
 - Belajar Desain
+- Membuat Aplikasi Inventaris
