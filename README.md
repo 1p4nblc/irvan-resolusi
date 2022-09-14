@@ -1,2 +1,2 @@
 # irvan-resolusi
-Repository untuk menyimpan rencana kesepannya
+Repository untuk menyimpan rencana kedepannya
